@@ -1,4 +1,9 @@
 Student Performance & Feedback Analysis
+
+
+
+
+
 Project Overview
 This project involves analyzing student performance, course activity, and feedback data using Python. The goal is to identify patterns that can help improve student engagement, learning outcomes, and course design. The analysis was done using data cleaning, exploratory data analysis (EDA), and data visualization techniques.
 
@@ -11,7 +16,13 @@ course_activity.csv: Records of students' engagement with course activities.
 
 feedback.csv: Feedback provided by students on course content and teaching methods.
 
+
+
+
+
 Steps Taken
+
+
 Data Cleaning:
 
 Loaded the datasets and checked for missing values, duplicates, and inconsistencies.
